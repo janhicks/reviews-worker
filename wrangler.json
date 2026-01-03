@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "reviews-worker",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "2d6c49a4-9be1-4079-a4da-7e30118dfecb",
+			"database_name": "reviews"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
